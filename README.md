@@ -18,7 +18,7 @@
 ## 💫 About Me
 
 ```yaml
-name: YOUR NAME
+name: Daksh Kumawat
 role: Developer
 currently_learning: New Technologies
 interests:
